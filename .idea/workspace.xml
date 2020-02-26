@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3aabb78-1bad-4919-a840-523648e1db92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XdonvA0vBmoadUXtcWsfBIiGE1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Python_modbus">
+    <configuration name="Python_modbus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="serial_comm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_modbus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serial_modbus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="serial_comm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serial_modbus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serial_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="serial_comm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serial_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Python_modbus" />
+        <item itemvalue="Python.serial_test" />
+        <item itemvalue="Python.serial_modbus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3aabb78-1bad-4919-a840-523648e1db92" name="Default Changelist" comment="" />
+      <created>1581385502235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581385502235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582607201707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582607201707" />
+    <state width="1515" height="142" key="GridCell.Tab.0.bottom" timestamp="1582682482150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1582086080293" />
+    <state width="1515" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582682482150" />
+    <state width="1515" height="142" key="GridCell.Tab.0.center" timestamp="1582682482149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1582086080293" />
+    <state width="1515" height="142" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582682482149" />
+    <state width="1515" height="142" key="GridCell.Tab.0.left" timestamp="1582682482149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1582086080293" />
+    <state width="1515" height="142" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582682482149" />
+    <state width="1515" height="142" key="GridCell.Tab.0.right" timestamp="1582682482150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1582086080293" />
+    <state width="1515" height="142" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582682482150" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1582680779159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582680779159" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1582680779159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582680779159" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1582680779159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582680779159" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1582680779159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582680779159" />
+    <state x="531" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1582679067162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="664" y="-732" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1581901599985" />
+    <state x="531" y="276" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1582679067162" />
+    <state x="92" y="-988" width="1736" height="856" key="dock-window-1" timestamp="1581555482980">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="92" y="-988" width="1736" height="856" key="dock-window-1/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1581555482980" />
+  </component>
+</project>
